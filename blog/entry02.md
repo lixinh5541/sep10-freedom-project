@@ -2,7 +2,7 @@
 ##### 11/2/24
 
 ### Context 
-
+When researching software and hardware about animation, i found many apps and gagdets that help animators draw. 
 ### EDP
 
 ### Skills
