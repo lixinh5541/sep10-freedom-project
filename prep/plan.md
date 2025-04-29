@@ -1,26 +1,34 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/7TaKuo)
+* [Desktop](https://wireframe.cc/IXFxPa)
 
 ## Colors
-* `#ABC123`
+* #EEEEE9
+* #8C8B93
+* #827075
+* #706864
+* #202928
 
 ## Fonts
-* [Text](URL)
+* [Manrope](https://fonts.google.com/selection/embed)
 
 ## Timeline
-
-#### MVP
-
-* Task/Timeline
-
+#### 5/2/25
+* Add components like navbar, card, and message
+* Add all my information
+#### 5/3/25
+* Inplement Bulma grid system
+* Make webpage responsive
+#### 5/4/25
+* Finish my webpage by making everything look like my wireframe
 ---
 
 #### Beyond MVP
 
-* Task
+* Add images to all the cards
+* Design a logo to put in my navbar 
 
 
 
