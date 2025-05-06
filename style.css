@@ -8,3 +8,10 @@ h1 {
 h2 {
     margin: 20px;
 }
+img {
+    height: 100px;
+    width: 100px;
+}
+article{
+    margin:20px;
+}
