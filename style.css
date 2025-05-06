@@ -3,7 +3,7 @@ li{
     font-size: 21px;
 }
 h1 {
-    margin: 40px;
+    margin: 50px;
 }
 h2 {
     margin: 20px;
@@ -13,5 +13,35 @@ img {
     width: 100px;
 }
 article{
-    margin:20px;
+    margin: 20px;
+}
+li{
+    font-family: manrope;
+    color:#202928;
+}
+.manrope{
+    font-family: manrope;
+
+}
+.message-header{
+    font-size: 25px;
+    padding: 15px;
+}
+.margin{
+    margin: 10px;
+}
+.grey{
+    background-color: #EEEEE9;
+}
+.dark-grey{
+    color: #8C8B93;
+}
+.reddish{
+    background-color: #827075;
+}
+.brownish{
+    background-color: #706864;
+}
+.black{
+    color: #202928;
 }

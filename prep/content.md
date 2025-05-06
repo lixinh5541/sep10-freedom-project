@@ -1,5 +1,5 @@
 # Content
-Topic: X
+Topic: 
 
 ## Overview/Introduction/Context
 * Text

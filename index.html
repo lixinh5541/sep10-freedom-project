@@ -7,16 +7,21 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" />
         <link href="style.css" rel="stylesheet" type="text/css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
         <style>
+
             /* CSS */
+
 
         </style>
 
         <title>Title</title>
     </head>
-    <body>
+    <body class="grey">
         <!-- HTML -->
-        <section class="hero is-info is-medium">
+        <section class="hero brownish is-medium">
             <div class="hero-head">
               <nav class="navbar">
                 <div class="container">
@@ -26,11 +31,10 @@
                   </div>
                   <div id="navbarMenuHeroA" class="navbar-menu">
                     <div class="navbar">
-                      <a class="navbar-item"> Home </a>
-                      <a class="navbar-item"> Context </a>
-                      <a class="navbar-item"> Apps </a>
-                      <a class="navbar-item"> Hardware </a>
-                      <a class="navbar-item"> Futuristic ideas </a>
+                      <a class="navbar-item manrope black" href="#context"> Context </a>
+                      <a class="navbar-item manrope black" href="#apps"> Apps </a>
+                      <a class="navbar-item manrope black" href="#hardware"> Hardware </a>
+                      <a class="navbar-item manrope black" href="#future"> Futuristic ideas </a>
                     </div>
                   </div>
                 </div>
@@ -38,12 +42,12 @@
             </div>
             <div class="hero-body">
               <div class="container has-text-centered">
-                <p class="title is-1">Animation</p>
+                <p class="title is-1 black">Animation</p>
               </div>
             </div>
           </section>
           <section>
-            <h1 class="title is-1">Context </h1>
+            <h1 id="context" class="title is-1 black">Context </h1>
             <div class="fixed grid content">
                 <div class="grid">
                     <div class="cell">
@@ -56,7 +60,7 @@
                         </ul>
                     </div>
                     <div class="cell">
-                        <h2 class="title is-2"> Why is animation important?</h2>
+                        <h2 class="title is-2 "> Why is animation important?</h2>
                         <ul>
                           <li>Some business can use animation for advertisement because it can attract customers  </li>
                           <li>Animators can gain money from people watching their animation</li>
@@ -68,7 +72,7 @@
           </section>
           <section>
             <div class="content">
-              <h1 class="title is-1">Animation apps</h1>
+              <h1 id="apps" class="title is-1 black">Animation apps</h1>
               <ul>
                 <li> <a href="https://moho.lostmarble.com/pages/try">moho</a> is a paid app for animation</li>
                 <li> <a href="https://www.powtoon.com/video-templates">Powtoon</a> is free app mostly for advertisements</li>
@@ -78,10 +82,10 @@
             </div>
           </section>
           <section>
-            <h1 class="title is-1">Animation Hardware</h1>
+            <h1 id="hardware" class="title is-1 black">Animation Hardware</h1>
             <div class="columns">
 
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
                   <p class="title is-4">Animation light box </p>
                   <div class="content">
@@ -89,15 +93,23 @@
                   </div>
                 </div>
               </div>
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
+                  <div class="card-image">
+                    <figure class="image is-4by3">
+                      <img
+                        src="camcorder.png"
+                        alt="Camcorder"
+                      />
+                    </figure>
+                  </div>
                   <p class="title is-4">Camcorder</p>
                   <div class="content">
                     A video camera but are explicitly used to record videos.
                   </div>
                 </div>
               </div>
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
                   <p class="title is-4">Scanner </p>
                   <div class="content">
@@ -107,17 +119,17 @@
               </div>
             </div>
             <div class="columns">
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
                   <div class="card-image">
                     <figure class="image is-4by3">
                       <img
-                        src="https://bulma.io/assets/images/placeholders/1280x960.png"
-                        alt="Placeholder image"
+                        src="stylus-pen.jpeg"
+                        alt="Stylus Pen"
                       />
                     </figure>
                   </div>
-                  <div class="media-content">
+                  <div class="media-content brownish">
                     <p class="title is-4">Stylus pen</p>
                   </div>
                   <div class="content">
@@ -125,7 +137,7 @@
                   </div>
                 </div>
               </div>
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
                   <p class="column title is-4">Graphic tablet</p>
                   <div class="content">
@@ -133,7 +145,7 @@
                   </div>
                 </div>
               </div>
-              <div class="column card is-4">
+              <div class="column card is-4 brownish">
                 <div class="card-content">
                   <p class="title is-4">3D printer </p>
                   <div class="content">
@@ -144,13 +156,13 @@
             </div>
           </section>
           <section>
-            <h1 class="title is-1">Futuristic ideas</h1>
+            <h1 id="future" class="title is-1 black">Futuristic ideas</h1>
             <div class="content">
-              <article class="message">
+              <article class="message ">
                 <div class="message-header">
                   <p>3D animations headset</p>
                 </div>
-                <div class="message-body">
+                <div class="message-body reddish">
                   <ul>
                     <li>Viewers could watch animation in 3d with a headset  </li>
                     <li>Make them feel like they are actually there watching the animation    </li>
@@ -159,11 +171,11 @@
                   </ul>
                 </div>
               </article>
-              <article class="message">
+              <article class="message ">
                 <div class="message-header">
                   <p>Copy pen</p>
                 </div>
-                <div class="message-body">
+                <div class="message-body reddish">
                   <ul>
                     <li> This pen will help animators animate things faster by making them able to copy their work from previous frames</li>
                     <li>For example, an animator can copy a soccer ball and move it slightly with each frame so they don't have to keep drawing the soccer ball.</li>
@@ -173,11 +185,11 @@
                   </ul>
                 </div>
               </article>
-              <article class="message">
+              <article class="message ">
                 <div class="message-header">
                   <p>Animator glasses</p>
                 </div>
-                <div class="message-body">
+                <div class="message-body reddish">
                   <ul>
                     <li>A big problem with animation is that it's stressful, and takes a mental and physical toll on the animator, this glasses will fix these problems</li>
                     <li>Animation projects take a long time usually on a computer which can strain the eyes, these glasses can have a special feature which keeps the brightness of the screen, but reduces the strain on the eyes</li>
