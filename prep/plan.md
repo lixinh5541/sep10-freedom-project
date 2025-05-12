@@ -28,24 +28,21 @@
 #### Beyond MVP
 
 * Add images to all the cards
-* Design a logo to put in my navbar 
+* Design a logo to put in my navbar
 
 
 
 
 
 
-
-
-<!-- DO NOT USE THIS YET
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
+| Bah  | Very detailed and organized  | Try making the colors contrast more, it is hard to see the text currently because it blends in with the background.
+|    |   |
 |   |   |
 |   |   |
 |   |   |
 |   |   |
-|   |   |
-|   |   |
-
--->
+- [ ] Make the colors contrast more
+- [x]
