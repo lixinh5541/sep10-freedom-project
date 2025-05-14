@@ -1,13 +1,15 @@
 # Presentation Plan
 
 ## Hook
-* 
+* Im going to ask the audience how many shows do they think are made from animation, then i am going to change the slide to show that around 40% of shows are animated. 
 
 ## Product
-* 
+* Im going to show images of my website 
 
 ## Process
-* 
+* I am going to show my tool and challenges that happened in my code.
+* Some of the challenges i will show is the responsiveness of the card component .
+* I will show the before and after of the codes with code snippets
 
 ## Conclusion
 * 
